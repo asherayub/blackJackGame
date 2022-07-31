@@ -1,0 +1,15 @@
+.game-body{
+    background-color: orangered;
+    height: 50vh;
+}
+.content{
+    display: none;
+}
+.extra-card{
+    display: none;
+}
+.extra-card-1{
+    display: none;
+    
+}
+
